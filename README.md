@@ -22,3 +22,7 @@ npx playwright install
 ```
 python plr.py
 ```
+
+## MCP how to slide 
+[link](https://docs.google.com/presentation/d/1xJjFzLYqIfzbusGsvzo3ECql3ezFPpT_Hti4ad7r8F0/edit?usp=sharing)
+
